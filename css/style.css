@@ -19,3 +19,40 @@ a {
 }
 
 /* Custom design below! */
+
+.banner {
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  }
+
+.banner h1 {
+  color: white;
+  }
+
+.banner p {
+  color: white;
+  opacity: .7;
+  font-size: 20px;
+  }
+
+.btn-primary {
+  display: inline-block;
+  background-color: #1EDD88;
+  padding: 16px 36px;
+  border-radius: 50px;
+  color: white;
+  }
+
+a {
+text-decoration: none;
+}
+
+h2, h3, h4 {
+font-family: Poppins;
+}
+
+.container {
+  width: 900px;
+  margin: auto;
+  }
