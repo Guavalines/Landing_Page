@@ -1,6 +1,4 @@
-# LANDING PAGE
-
-# [Landing Page](https://guavalines.github.io/Landing_Page/)
+# [LANDING PAGE](https://guavalines.github.io/Landing_Page/)
 
 ## Description
 This is a classic landing page.
